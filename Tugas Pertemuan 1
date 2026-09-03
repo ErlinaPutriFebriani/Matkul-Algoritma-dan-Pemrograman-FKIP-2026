@@ -1,0 +1,7 @@
+s = float(input("Masukkan panjang sisi kubus: "))
+
+volume = s * s * s
+luas = 6 * s * s
+
+print("Volume Kubus         :", volume)
+print("Luas Permukaan Kubus :", luas)
